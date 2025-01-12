@@ -11,16 +11,6 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 - 🛠 **Tools:** Git, Docker, Kubernetes, VSCode
 - 📚 **Currently Learning:** Rust, GraphQL
 
-## Projects
-
-Here are some of my notable projects:
-
-### [Project Name](https://github.com/ItsLyy/Project-Name)
-A brief description of the project. What it does, and the technologies used.
-
-### [Another Project](https://github.com/ItsLyy/Another-Project)
-A brief description of the project. What it does, and the technologies used.
-
 ## GitHub Stats
 
 ![ItsLyy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsLyy&show_icons=true&theme=radical)
@@ -31,6 +21,6 @@ A brief description of the project. What it does, and the technologies used.
 
 - [LinkedIn](https://www.linkedin.com/in/ItsLyy)
 - [Twitter](https://twitter.com/ItsLyy)
-- [Email](mailto:ItsLyy@example.com)
+- [Email](mailto:ItsLyy@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about technology!
