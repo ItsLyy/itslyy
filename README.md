@@ -6,10 +6,10 @@
 
 I'm a passionate developer with a love for coding and technology. I enjoy learning new programming languages and frameworks, and I'm always looking for new challenges to tackle.
 
-- 💻 **Languages:** Python, JavaScript, Java, C++
-- 🌐 **Frameworks:** Django, Flask, React, Node.js
-- 🛠 **Tools:** Git, Docker, Kubernetes, VSCode
-- 📚 **Currently Learning:** Rust, GraphQL
+- 💻 **Languages:** Java, Javascript, PHP
+- 🌐 **Frameworks:** React, Laravel, Node.js
+- 🛠 **Tools:** Git, Figma, VSCode
+- 📚 **Currently Learning:** Inertia
 
 ## GitHub Stats
 
