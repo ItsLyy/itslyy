@@ -9,7 +9,7 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 - 💻 **Languages:** Java, Javascript, PHP
 - 🌐 **Frameworks:** React, Laravel, Node.js
 - 🛠 **Tools:** Git, Figma, VSCode
-- 📚 **Currently Learning:** Inertia
+- 📚 **Currently Learning:** Next JS
 
 ## GitHub Stats
 
