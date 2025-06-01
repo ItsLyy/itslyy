@@ -6,10 +6,10 @@
 
 I'm a passionate developer with a love for coding and technology. I enjoy learning new programming languages and frameworks, and I'm always looking for new challenges to tackle.
 
-- 💻 **Languages:** Java, Javascript, PHP
-- 🌐 **Frameworks:** React, Laravel, Node.js
+- 💻 **Languages:** Javascript, PHP, Typescript
+- 🌐 **Frameworks:** React, Laravel, NextJS
 - 🛠 **Tools:** Git, Figma, VSCode
-- 📚 **Currently Learning:** Next JS
+- 📚 **Currently Learning:** Docker 
 
 ## GitHub Stats
 
@@ -19,8 +19,8 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ItsLyy)
+- [LinkedIn](www.linkedin.com/in/irly-fizaharis-aa8896298)
 - [Twitter](https://twitter.com/ItsLyy)
-- [Email](mailto:ItsLyy@gmail.com)
+- [Email](mailto:irly.fizaharis.dev@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about technology!
